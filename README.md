@@ -42,7 +42,7 @@ Dataset-Narkotika_424_431/
 # 🧾 Dataset Putusan Narkotika – PN Makassar
 
 ## 📑 Struktur File `Overview.xlsx`
-File `Overview.xlsx` memuat ringkasan metadata dari 50 dokumen putusan dengan kolom sebagai berikut:
+File `Overview.xlsx` memuat ringkasan metadata dari 51 dokumen putusan dengan kolom sebagai berikut:
 
 | No | Nama File | No Putusan | Lembaga Peradilan | Barang Bukti | Amar Putusan |
 |----|-------------|------------------|---------------|---------------|---------------|
@@ -63,7 +63,7 @@ File `Overview.xlsx` memuat ringkasan metadata dari 50 dokumen putusan dengan ko
 
 ## ⚙️ Cara Penggunaan Dataset
 1. Download file `Narkotika.zip` dari folder `/Dataset/`.
-2. Ekstrak file ZIP untuk mendapatkan 50 dokumen `.pdf`.
+2. Ekstrak file ZIP untuk mendapatkan 51 dokumen `.pdf`.
 3. Gunakan file `Overview.xlsx` untuk melihat ringkasan metadata seperti nomor putusan, barang bukti, dan amar putusan.
 4. Dataset dapat digunakan untuk eksperimen *information retrieval*, *text mining*, atau *document classification* menggunakan Python dan library seperti `pandas`, `nltk`, dan `PyPDF2`.
 
